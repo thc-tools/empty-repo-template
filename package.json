@@ -1,5 +1,5 @@
 {
-    "name": "@htc/empty-repo-template",
+    "name": "@thc/empty-repo-template",
     "version": "1.0.0",
     "description": "Empty repo, for template",
     "main": "index.js",
